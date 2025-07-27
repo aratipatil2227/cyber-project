@@ -57,7 +57,7 @@ AI-ENHANCED-INTRUSION-DETECTION/
 ```bash
 conda create -n cyber_ids python=3.10
 conda activate cyber_ids
-git clone []
+git clone [https://github.com/aratipatil2227/cyber-project]
 cd CYBER_PROJECT
 pip install -r requirment.txt
 ```
