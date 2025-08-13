@@ -18,6 +18,7 @@ By combining advanced *Random Forest Classification* with cybersecurity domain k
 ### Landing Page
 ![https://drive.google.com/file/d/190hbNs55-8J7FBUEDNVgKW4_Ubb6WzU7/view)
 
+
 ## 🧠 *Model Details*
 
 The Intrusion Detection System uses a *Random Forest Classifier* trained on a preprocessed and balanced network intrusion dataset. The model is enhanced with *SMOTE* to handle class imbalance.
